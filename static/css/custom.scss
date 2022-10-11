@@ -7,10 +7,3 @@
 @import "open_sans";
 @import "roboto";
 @import "style";
-html {
-    filter: invert(1) hue-rotate(180deg);
-}
-
-html img{
-    filter: invert(1) hue-rotate(180deg);
-}

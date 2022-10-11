@@ -109,6 +109,14 @@ h3, h4, h5 {
   background: url(patterns/header-profile.png) no-repeat;
 }
 
+html {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+html img{
+  filter: invert(1) hue-rotate(180deg);
+}
+
 .nav > li.active {
   border-left: 4px solid #E0610E;
   background: #293846;
