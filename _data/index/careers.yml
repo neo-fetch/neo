@@ -8,6 +8,7 @@
   desc:
     detail: Currently working as an Associate Software Engineer in the Airbus Group. 
     i18n: company_b_desc
+  img: https://media.wired.com/photos/5926aed5cefba457b079ad05/master/w_3622,h_2716,c_limit/A330-BELUGA_XL_RR_engines_03.jpg
   date:
     detail: August 2022 - Present
     i18n: company_b_date
@@ -24,6 +25,7 @@
   desc:
     detail: Developing features for billing systems in node.js 14 LTS and JDK 8.xx, designed unit tests in jest, helped in serverless operations using cloudformation in AWS and learned how software architectures and philosophies are executed practically in an Agile environment.
     i18n: company_a_desc
+  img: https://media.cybernews.com/images/featured-big/2022/10/Telstra-hack-Australia.jpg
   date:
     detail: March 2022 - July 2022
     i18n: company_a_date
@@ -39,6 +41,7 @@
   desc:
     detail: Working with Nvidia India-Singapore on a project funded by Ministry of Defence, India, to assist in airfoil design optimization using PINNs (Physics-Informed Neural Networks) with the help of Nvidia MODULUS (Previously known as NVIDIA simnet) deep learning framework. A paper on related work has been published in the 2022 Institute of Electrical and Electronics Engineers (IEEE) Symposium Series On Computational Intelligence (SSCI) conference in Singapore.
     i18n: company_c_desc
+  img: https://www.reviewadda.com/assets/uploads/article_images/Mahindra_ecole_centrale.jpg
   date:
     detail: Mar 2021 - Present
     i18n: company_c_date
