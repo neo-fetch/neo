@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Linked
+  first_name: In
+  desc: link
+  website: https://www.linkedin.com/in/mayankdeshpande/
+  email: mayankchandrashekhar.deshpande@outlook.com
 
 - last_name: Donate
   first_name: Jalpc
-  desc: Support Jalpc
+  desc: Credit
   website: http://www.jarrekk.com/donate/
   email: me@jarrekk.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Stack
+  first_name: Overflow
+  desc: link
+  website: https://stackoverflow.com/users/13170122/mayank
+  email: mayankchandrashekhar.deshpande@outlook.com
