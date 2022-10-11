@@ -16,9 +16,9 @@ author:  # change following line to your infomation.
   last_name: Deshpande  # Be used at index page about me section.
   avatar: /static/16886.jpg  # upload your avatar at directory and edit it.
   github_username: neo-fetch  # Leave blank if you don't have now
-  linkedin_id: neo-fetch # Leave blank if you don't have now
+  linkedin_id: mayankdeshpande # Leave blank if you don't have now
   email: mayankchandrashekhar.deshpande@outlook.com  # Leave blank if you don't have now
-  cv: https://neo-fetch.github.io/neo/_pdfs/Curriculum_Vitae.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://nbviewer.org/github/neo-fetch/neo/blob/master/_pdfs/Curriculum_Vitae.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache

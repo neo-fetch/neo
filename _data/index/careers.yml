@@ -15,7 +15,7 @@
   job:
     detail: Full Stack Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-map-marker
   present: true
 
 # Telstra Australia
@@ -32,7 +32,7 @@
   job:
     detail: Developer Intern
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-road
 
 # Research
 - name:
@@ -48,4 +48,4 @@
   job:
     detail: Research Intern
     i18n: company_c_job
-  icon: fa-plus-square
+  icon: fa-road
