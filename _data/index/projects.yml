@@ -15,7 +15,7 @@
   img: /static/assets/img/landing/python.png
   desc: Ricing Arch Linux with Qtile Window Manager, polybar, rofi, picom, alacritty, neofetch, ranger, zsh, oh-my-zsh, powerlevel10k, oh my posh, neovim, tmux, and more.
 
-- name: Pothole detection using YOLOV5
+- name: Pothole detection using YOLOV3
   i18n: google
   gh_user: neo-fetch
   repo: Pothole-Detection
